@@ -5,6 +5,16 @@
         <link>https://moreant.github.io/</link>
         <description>Recent content on Moreants&#39; Blog</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>zh-cn</language><atom:link href="https://moreant.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <language>zh-cn</language>
+        <lastBuildDate>Sat, 10 Jul 2021 22:25:58 +0800</lastBuildDate><atom:link href="https://moreant.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Hello Hugo!</title>
+        <link>https://moreant.github.io/p/hello-hugo/</link>
+        <pubDate>Sat, 10 Jul 2021 22:25:58 +0800</pubDate>
+        
+        <guid>https://moreant.github.io/p/hello-hugo/</guid>
+        <description>&lt;p&gt;因为这个主题好看，我从hexo转到了hugo。&lt;/p&gt;
+</description>
+        </item>
+        
     </channel>
 </rss>
